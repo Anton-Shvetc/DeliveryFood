@@ -10,7 +10,7 @@ function toggleModal() {
   modal.classList.toggle("is-open");
 }
 
-
+//day2
 
 
 const buttonAuth = document.querySelector('.button-auth');
